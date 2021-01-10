@@ -80,3 +80,14 @@ p{
     background-color:aquamarine;
 
 }
+a{
+    text-decoration:none;
+    
+}
+.article:hover{
+    color:darkgreen;
+    
+}
+html{
+    scroll-behavior:smooth;
+}
